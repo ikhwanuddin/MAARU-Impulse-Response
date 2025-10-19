@@ -1,5 +1,9 @@
 # Silwood Park Forest Impulse Response
 
+## Location:
+51°24'43.0''N
+0°38'29.0''W
+
 ## Azimuth:
 - 0 degree
 - 60 degree
