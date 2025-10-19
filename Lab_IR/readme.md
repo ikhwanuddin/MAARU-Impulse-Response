@@ -23,7 +23,6 @@
 - 300 degree
 
 ## Date created: 
-21 Aug 2025
+21 August 2025
 
 Reference: sonisphere_mapping.csv/xslx
-Author: Rifqi Ikhwanuddin
