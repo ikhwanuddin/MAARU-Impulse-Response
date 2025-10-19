@@ -1,6 +1,6 @@
 # Silwood Park Forest Impulse Response
 
-Azimuth:
+## Azimuth:
 - 0 degree
 - 60 degree
 - 120 degree
@@ -8,4 +8,11 @@ Azimuth:
 - 240 degree
 - 300 degree
 
+## Distance:
+- 2 meter
+- 4 meter
+- 8 meter
+- 16 meter
+
+## Date:
 15 June 2025
