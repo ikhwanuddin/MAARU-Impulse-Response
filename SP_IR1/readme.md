@@ -20,3 +20,6 @@
 
 ## Date:
 15 June 2025
+
+## Visualizations:
+![SP IR Plots Part 1](SP%20IR%20Plots%20Plart%201.png)
