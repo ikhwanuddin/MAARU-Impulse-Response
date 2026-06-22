@@ -19,5 +19,8 @@
 ## Date:
 23 July 2025
 
+## Visualizations:
+![SP IR Plots Part 2](SP%20IR%20Plots%20Part%202.png)
+
 ## Notes:
 Each distance measurement consists of 3 repetitions (1, 2, 3) to ensure data consistency.
