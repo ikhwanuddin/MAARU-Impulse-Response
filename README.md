@@ -1,7 +1,6 @@
 # MAARU-Impulse-Response
 
 ## Laboratory-Generic Impulse Response in the Virtual Sound Environment
-## Laboratory/Virtual Sound Environment Impulse Response
 
 ### Elevation:
 - S01: -45 degree
