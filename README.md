@@ -1,6 +1,6 @@
 # MAARU-Impulse-Response
 
-## Laboratory/Virtual Sound Environment Impulse Response
+## Laboratory-Generic Impulse Response in the Virtual Sound Environment
 
 ### Elevation:
 - S01: -45 degree
@@ -30,28 +30,24 @@
 ### Reference: 
 sonisphere_mapping.csv/xslx
 
-## Silwood Park Forest Impulse Response
+## Silwood Park Forest Impulse Response (SP_IR)
 
-### Location:
-51°24'43.0''N
-0°38'29.0''W
+The dataset contains two sets of impulse responses (IR) collected in Silwood Park Forest.
 
-### Azimuth:
-- 0 degree
-- 60 degree
-- 120 degree
-- 180 degree
-- 240 degree
-- 300 degree
+### SP_IR1
+Contains measurements with various azimuths and distances.
+- **Location:** 51°24'43.0''N, 0°38'29.0''W
+- **Azimuth:** 0, 60, 120, 180, 240, 300 degrees
+- **Distance:** 2, 4, 8, 16 meters
+- **Date:** 15 June 2025
 
-### Distance:
-- 2 meter
-- 4 meter
-- 8 meter
-- 16 meter
-
-### Date:
-15 June 2025
+### SP_IR2
+Contains measurements at a fixed azimuth with varying distances, with 3 repetitions per measurement.
+- **Location:** 51°24'43.0''N, 0°38'29.0''W
+- **Azimuth:** 180 degrees
+- **Distance:** 1, 2, 4, 8, 16, 32, 64 meters
+- **Repetitions:** 1, 2, 3 (for each distance)
+- **Date:** 23 July 2025
 
 ## Cite this work
 [![DOI](https://zenodo.org/badge/1079280886.svg)](https://doi.org/10.5281/zenodo.17391527)
