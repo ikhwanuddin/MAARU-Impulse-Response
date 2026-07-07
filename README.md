@@ -45,7 +45,7 @@ Contains measurements with various azimuths and distances.
 - **Date:** 15 June 2025
 
 ### Visualizations:
-![SP IR Plots Part 1](SP_IR1/SP%20IR%20Plots%20Plart%201.png)
+![SP IR Plots Part 1](SP_IR1/SP%20IR%20Plots%20Part%201.png)
 
 ### SP_IR2
 Contains measurements at a fixed azimuth with varying distances, with 3 repetitions per measurement.
