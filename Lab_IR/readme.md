@@ -15,14 +15,13 @@
 - S12: 90 degree
 
 ## Azimuth:
-- 0 degree
-- 60 degree
-- 120 degree
-- 180 degree
-- 240 degree
-- 300 degree
+- 0 to 350 degree in 10 degree steps (36 azimuths) for S01-S11; S12 (zenith) azimuth 0 only
+- 397 impulse responses; the 360 degree position repeats 0 degree and is not included
+- File name: `Lab_IR_Sxx_aaa.wav` (xx = speaker, aaa = azimuth)
 
-## Date created: 
+## Measured:
+9 December 2024 (repeats of some positions on 11 December), array flat and facing the zenith.
+See the main README for the full setup.
+
+## Date created:
 21 August 2025
-
-Reference: sonisphere_mapping.csv/xslx
