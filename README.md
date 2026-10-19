@@ -26,7 +26,7 @@
 - Array: ReSpeaker 6-Mic (6 channels), ring radius 46.3 mm, lying flat and facing the zenith (the array normal points at S12), on a stand on an electric turntable.
 - Sources: 12 fixed loudspeakers on an arc at about 1.5 m from the array (137-145 cm measured), array centre 155 cm above the floor; elevations as above.
 - Turntable: turns clockwise seen from above, 10 degree steps from azimuth 0 (start position). The source is fixed, so the source direction seen from the array moves anticlockwise.
-- Channels: with the ODAS configuration angles (0 degree at the left, increasing clockwise seen from the front when the array is upright), CH4 0 degree, CH5 60, CH0 120, CH1 180, CH2 240, CH3 300.
+- Channels: board labels MIC1-MIC6 are CH0-CH5, numbered clockwise seen from the mic side. Seen from the mic side with CH0 and CH1 as the top pair: CH0 upper left, CH1 upper right, CH2 right, CH3 lower right, CH4 lower left, CH5 left (angles from the right edge, increasing anticlockwise: CH2 0 degree, CH1 60, CH0 120, CH5 180, CH4 240, CH3 300). At turntable azimuth 0 the top edge of the board (between CH0 and CH1) faces the loudspeaker arc.
 - Sweep: exponential, about 22 Hz to 22 kHz in 15 s, 48 kHz. The impulse responses are obtained by deconvolution with the inverse filter.
 
 ### Date:
