@@ -62,6 +62,13 @@ Contains measurements at a fixed azimuth with varying distances, with 3 repetiti
 ![SP IR Plots Part 2](SP_IR2/SP%20IR%20Plots%20Part%202.png)
 
 ## Cite this work
-ikhwanuddin. (2026). ikhwanuddin/MAARU-Impulse-Response: MAARU IR v1.1 (v1.1). Zenodo. https://doi.org/10.5281/zenodo.20799384
+ikhwanuddin. (2026). ikhwanuddin/MAARU-Impulse-Response: MAARU IR v1.2 (v1.2). Zenodo. https://doi.org/10.5281/zenodo.17391527
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20799384.svg)](https://doi.org/10.5281/zenodo.20799384)
+The DOI above always resolves to the latest version. Each version also has its own DOI, listed on the Zenodo record.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17391527.svg)](https://doi.org/10.5281/zenodo.17391527)
+
+## Related publication
+These impulse responses are the beamforming steering vectors used in:
+
+Ikhwanuddin, R., Le Penru, N. P., Sethi, S. S., and Picinali, L. (2026). "A comparative evaluation of lab-generic and site-specific impulse response-based beamforming for enhanced automated bird call detection," J. Acoust. Soc. Am. 160(4). https://doi.org/10.1121/10.0046897
