@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use these impulse responses, please cite the dataset and the related paper."
+type: dataset
+title: "MAARU impulse responses: lab and Silwood Park forest measurements of the MAARU six-microphone array"
+authors:
+  - family-names: Ikhwanuddin
+    given-names: Rifqi
+    affiliation: Imperial College London
+version: v1.2
+date-released: 2026-10-21
+doi: 10.5281/zenodo.17391527
+license: CC-BY-4.0
+repository-code: "https://github.com/ikhwanuddin/MAARU-Impulse-Response"
+keywords:
+  - impulse response
+  - microphone array
+  - beamforming
+  - ecoacoustics
+  - bird call detection
+references:
+  - type: article
+    title: "A comparative evaluation of lab-generic and site-specific impulse response-based beamforming for enhanced automated bird call detection"
+    authors:
+      - family-names: Ikhwanuddin
+        given-names: Rifqi
+      - family-names: Le Penru
+        given-names: N. P.
+      - family-names: Sethi
+        given-names: S. S.
+      - family-names: Picinali
+        given-names: L.
+    journal: "The Journal of the Acoustical Society of America"
+    volume: 160
+    issue: 5
+    start: 3754
+    end: 3769
+    year: 2026
+    doi: 10.1121/10.0046897

@@ -71,4 +71,7 @@ The DOI above always resolves to the latest version. Each version also has its o
 ## Related publication
 These impulse responses are the beamforming steering vectors used in:
 
-Ikhwanuddin, R., Le Penru, N. P., Sethi, S. S., and Picinali, L. (2026). "A comparative evaluation of lab-generic and site-specific impulse response-based beamforming for enhanced automated bird call detection," J. Acoust. Soc. Am. 160(4). https://doi.org/10.1121/10.0046897
+Ikhwanuddin, R., Le Penru, N. P., Sethi, S. S., and Picinali, L. (2026). "A comparative evaluation of lab-generic and site-specific impulse response-based beamforming for enhanced automated bird call detection," J. Acoust. Soc. Am. 160(5), 3754–3769. https://doi.org/10.1121/10.0046897
+
+## License
+The data in this repository are released under the [Creative Commons Attribution 4.0 International licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE). You may share and adapt them for any purpose, as long as you credit the source by citing the dataset above.
