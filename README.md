@@ -1,5 +1,7 @@
 # MAARU-Impulse-Response
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17391527.svg)](https://doi.org/10.5281/zenodo.17391527) [![JASA](https://img.shields.io/badge/JASA-10.1121%2F10.0046897-1f5a96)](https://doi.org/10.1121/10.0046897) [![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.crossref.org%2Fworks%2F10.1121%2F10.0046897&query=%24.message.is-referenced-by-count&label=citations&color=1f5a96)](https://doi.org/10.1121/10.0046897) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
+
 ## Laboratory-Generic Impulse Response in the Virtual Sound Environment
 
 ### Elevation:
@@ -72,6 +74,8 @@ The DOI above always resolves to the latest version. Each version also has its o
 These impulse responses are the beamforming steering vectors used in:
 
 Ikhwanuddin, R., Le Penru, N. P., Sethi, S. S., and Picinali, L. (2026). "A comparative evaluation of lab-generic and site-specific impulse response-based beamforming for enhanced automated bird call detection," J. Acoust. Soc. Am. 160(5), 3754–3769. https://doi.org/10.1121/10.0046897
+
+[![JASA](https://img.shields.io/badge/JASA-10.1121%2F10.0046897-1f5a96)](https://doi.org/10.1121/10.0046897) [![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.crossref.org%2Fworks%2F10.1121%2F10.0046897&query=%24.message.is-referenced-by-count&label=citations&color=1f5a96)](https://doi.org/10.1121/10.0046897)
 
 ## License
 The data in this repository are released under the [Creative Commons Attribution 4.0 International licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE). You may share and adapt them for any purpose, as long as you credit the source by citing the dataset above.
